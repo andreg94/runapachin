@@ -1,1 +1,1 @@
-FROM andreg94/apachitest:v2
+FROM andreg94/apachitest:v3
